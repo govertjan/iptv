@@ -1,125 +1,125 @@
 #EXTM3U
 #EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13174
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13174
 #EXTINF:-1,NL: ZIGGO SPORT RACING
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13175
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13175
 #EXTINF:-1,NL: ZIGGO SPORT GOLF
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13176
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13176
 #EXTINF:-1,NL: NICKELODEON
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13181
 #EXTINF:-1,NL: DISNEY JUNIOR
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13189
 #EXTINF:-1,NL: 24 KITCHEN
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13192
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/13192
 #EXTINF:-1,NL: ZIGGO SPORT VOETBAL
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5825
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5825
 #EXTINF:-1,NL: ZIGGO SPORT
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5694
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5694
 #EXTINF:-1,NL: VERONICA DISNEY
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5702
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5702
 #EXTINF:-1,NL: TV OOST
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6030
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6030
 #EXTINF:-1,NL: TLC
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6032
 #EXTINF:-1,NL: SPORT 1 VOETBAL
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5688
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5688
 #EXTINF:-1,NL: SPORT 1 SELECT
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5689
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5689
 #EXTINF:-1,NL: SPORT 1 RACING
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5690
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5690
 #EXTINF:-1,NL: SPORT 1 GOLF
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6034
 #EXTINF:-1,NL: SBS 9
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/741
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/741
 #EXTINF:-1,NL: SBS 6
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6036
 #EXTINF:-1,NL: RTV DRENTHE HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/3895
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/3895
 #EXTINF:-1,NL: RTV DRENTHE
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6056
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6056
 #EXTINF:-1,NL: Nikelodeon
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/4968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/4968
 #EXTINF:-1,NL: NICK JR
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6042
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6042
 #EXTINF:-1,NL: NET 5 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/3902
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/3902
 #EXTINF:-1,NL: NET 5
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/750
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/750
 #EXTINF:-1,NL: KITCHEN
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5697
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5697
 #EXTINF:-1,NL: FOX TV
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5820
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5820
 #EXTINF:-1,NL: FOX
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5683
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5683
 #EXTINF:-1,NL: Film 1 Sundance
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5818
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5818
 #EXTINF:-1,NL: FILM 1 COMEDY AND KIDS
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5680
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5680
 #EXTINF:-1,NL: FILM 1 ACTION HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/2686
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/2686
 #EXTINF:-1,NL: DISNEY CHANNEL
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/4975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/4975
 #EXTINF:-1,NL: DISCOVERY INVESTIGATION
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6050
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6050
 #EXTINF:-1,NL: COMEDY CENTRAL EXTRA
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6027
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6027
 #EXTINF:-1,NL: COMEDY CENTRAL
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6053
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6053
 #EXTINF:-1,NL: FOX SPORT 1
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/765
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/765
 #EXTINF:-1,NL: FOX SPORT 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/762
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/762
 #EXTINF:-1,NL: FOX SPORT 3
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/764
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/764
 #EXTINF:-1,NL: FOX SPORT 4
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/761
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/761
 #EXTINF:-1,NL: FOX SPORT 5
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/760
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/760
 #EXTINF:-1,NL: Fox Sports 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5817
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5817
 #EXTINF:-1,NL: Fox Sports 3
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5816
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5816
 #EXTINF:-1,NL: Fox Sports 4
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5821
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5821
 #EXTINF:-1,NL: Fox Sports 5
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5815
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5815
 #EXTINF:-1,NL: HBO 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6044
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6044
 #EXTINF:-1,NL: HBO 2 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/754
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/754
 #EXTINF:-1,NL: HBO 3
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/753
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/753
 #EXTINF:-1,NL: HBO 3 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5823
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5823
 #EXTINF:-1,NL: NPO 1
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/749
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/749
 #EXTINF:-1,NL: NPO 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/748
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/748
 #EXTINF:-1,NL: NPO 3
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/747
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/747
 #EXTINF:-1,NL: RTL 4 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/746
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/746
 #EXTINF:-1,NL: RTL 5 HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/745
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/745
 #EXTINF:-1,NL: RTL 7
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6018
 #EXTINF:-1,NL: RTL 8
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/6017
 #EXTINF:-1,NL: RTL Z
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5676
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5676
 #EXTINF:-1,NL: ZIGGO SPORT 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5826
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5826
 #EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5693
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5693
 #EXTINF:-1,NL: ZIGGO SPORT EXTRA 2
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5692
 #EXTINF:-1,NL: FOX SPORTS 6
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/17504
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/17504
 #EXTINF:-1,NL: History Channel
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/16452
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/16452
 #EXTINF:-1,NL: MTV HD
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/17774
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/17774
 #EXTINF:-1,NL: Omroep Brabant
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/16448
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/16448
 #EXTINF:-1,NL: VERONICA
-http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/16436
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/16436
