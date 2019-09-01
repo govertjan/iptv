@@ -1,500 +1,97 @@
 #EXTM3U
-#EXTINF:-1,NL | 24Kitchen
-http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120403
-#EXTINF:-1,NL | Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120402
-#EXTINF:-1,NL | Comedy Central Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120421
-#EXTINF:-1,NL | Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120392
-#EXTINF:-1,NL | Film 1 Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120423
-#EXTINF:-1,NL | Film 1 Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120425
-#EXTINF:-1,NL | Fox Sports 2 International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120390
-#EXTINF:-1,NL | Fox Sports 4 International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120388
-#EXTINF:-1,NL | Fox Sports 5 Eredivisie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120387
-#EXTINF:-1,NL | Fox Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120386
-#EXTINF:-1,NL | HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120429
-#EXTINF:-1,NL | HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120428
-#EXTINF:-1,NL | HBO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120427
-#EXTINF:-1,NL | Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120405
-#EXTINF:-1,NL | L1 Limburg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120401
-#EXTINF:-1,NL | Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120409
-#EXTINF:-1,NL | Net5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120415
-#EXTINF:-1,NL | Nick junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120400
-#EXTINF:-1,NL | NICK TOONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120406
-#EXTINF:-1,NL | NPO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120432
-#EXTINF:-1,NL | NPO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120431
-#EXTINF:-1,NL | NPO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120430
-#EXTINF:-1,NL | NPO Politik
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120407
-#EXTINF:-1,NL | Omroep Brabant
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120393
-#EXTINF:-1,NL | ONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120399
-#EXTINF:-1,NL | RTL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120417
-#EXTINF:-1,NL | RTL 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120414
-#EXTINF:-1,NL | RTL 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120413
-#EXTINF:-1,NL | RTL Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120398
-#EXTINF:-1,NL | RTL lounge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120397
-#EXTINF:-1,NL | RTL Telekids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120419
-#EXTINF:-1,NL | RTL Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120412
-#EXTINF:-1,NL | RTV Drenthe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120396
-#EXTINF:-1,NL | SBS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120411
-#EXTINF:-1,NL | SBS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120410
-#EXTINF:-1,NL | TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120408
-#EXTINF:-1,NL | TV Oost
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120395
-#EXTINF:-1,NL | TV Oranje
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120394
-#EXTINF:-1,NL | Ziggo Sport Extra1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120382
-#EXTINF:-1,NL | Ziggo Sport Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120384
-#EXTINF:-1,NL | Ziggo Sport Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120385
-#EXTINF:-1,NL:Fox Sports 1 Eredivisie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120391
-#EXTINF:-1,NL:Fox Sports 3 Eredivisie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/95hsH5LSbs/T4GrPQYKU4/120389
-#EXTM3U
-
-#EXTINF:-1,NL: NPO 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44058
-#EXTINF:-1,NL: NPO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44057
-#EXTINF:-1,NL: NPO 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44056
-#EXTINF:-1,NL: RTL 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44055
-#EXTINF:-1,NL: RTL 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44054
-#EXTINF:-1,NL: RTL 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44053
-#EXTINF:-1,NL: RTL 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44052
-#EXTINF:-1,NL: SBS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44049
-#EXTINF:-1,NL: SBS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44048
-#EXTINF:-1,NL: NET 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44050
-#EXTINF:-1,NL: Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44046
-#EXTINF:-1,NL: TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44018
-#EXTINF:-1,NL: E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44019
-#EXTINF:-1,NL: Film1 Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44045
-#EXTINF:-1,NL: Film1 Drama HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44044
-#EXTINF:-1,NL: Film1 Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44051
-#EXTINF:-1,NL: Film1 Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44043
-#EXTINF:-1,NL: Crime Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44020
-#EXTINF:-1,NL: Discovery Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44021
-#EXTINF:-1,NL: Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44023
-#EXTINF:-1,NL: History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44022
-#EXTINF:-1,NL: NATGEO Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44024
-#EXTINF:-1,NL: National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44025
-#EXTINF:-1,NL: Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44026
-#EXTINF:-1,NL: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44027
-#EXTINF:-1,NL: Comedy Central Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44041
-#EXTINF:-1,NL: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44042
-#EXTINF:-1,NL: NICK JR & Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44029
-#EXTINF:-1,NL: Nick TOONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44028
-#EXTINF:-1,NL: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44030
-#EXTINF:-1,NL: VERONICA DISNEY XD & Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44047
-#EXTINF:-1,NL: Fox Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44040
-#EXTINF:-1,NL: Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44039
-#EXTINF:-1,NL: Fox Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44038
-#EXTINF:-1,NL: Fox Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44037
-#EXTINF:-1,NL: Fox Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44036
-#EXTINF:-1,NL: Fox Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44035
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44032
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44031
-#EXTINF:-1,NL: Ziggo Sport Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44034
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://caneriptveu.com:1881/gurbuz1/04092018/44033
-
-#EXTM3U
-#EXTINF:-1,NL | 24Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120403
-#EXTINF:-1,NL | Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120402
-#EXTINF:-1,NL | Comedy Central Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120421
-#EXTINF:-1,NL | Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120418
-#EXTINF:-1,NL | Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120392
-#EXTINF:-1,NL | Film 1 Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120423
-#EXTINF:-1,NL | Film 1 Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120425
-#EXTINF:-1,NL | Film1 Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120422
-#EXTINF:-1,NL | Film1 Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120424
-#EXTINF:-1,NL | Fox Sports 2 International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120390
-#EXTINF:-1,NL | Fox Sports 4 International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120388
-#EXTINF:-1,NL | Fox Sports 5 Eredivisie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120387
-#EXTINF:-1,NL | Fox Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120386
-#EXTINF:-1,NL | HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120429
-#EXTINF:-1,NL | HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120428
-#EXTINF:-1,NL | HBO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120427
-#EXTINF:-1,NL | History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120404
-#EXTINF:-1,NL | Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120405
-#EXTINF:-1,NL | L1 Limburg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120401
-#EXTINF:-1,NL | Nat Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120426
-#EXTINF:-1,NL | Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120409
-#EXTINF:-1,NL | Net5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120415
-#EXTINF:-1,NL | Nick junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120400
-#EXTINF:-1,NL | NICK TOONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120406
-#EXTINF:-1,NL | NPO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120432
-#EXTINF:-1,NL | NPO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120431
-#EXTINF:-1,NL | NPO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120430
-#EXTINF:-1,NL | NPO Politik
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120407
-#EXTINF:-1,NL | Omroep Brabant
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120393
-#EXTINF:-1,NL | ONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120399
-#EXTINF:-1,NL | RTL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120417
-#EXTINF:-1,NL | RTL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120416
-#EXTINF:-1,NL | RTL 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120414
-#EXTINF:-1,NL | RTL 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120413
-#EXTINF:-1,NL | RTL Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120398
-#EXTINF:-1,NL | RTL lounge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120397
-#EXTINF:-1,NL | RTL Telekids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120419
-#EXTINF:-1,NL | RTL Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120412
-#EXTINF:-1,NL | RTV Drenthe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120396
-#EXTINF:-1,NL | SBS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120411
-#EXTINF:-1,NL | SBS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120410
-#EXTINF:-1,NL | TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120408
-#EXTINF:-1,NL | TV Oost
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120395
-#EXTINF:-1,NL | TV Oranje
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120394
-#EXTINF:-1,NL | Veronica/DisneyXD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120420
-#EXTINF:-1,NL | Ziggo Sport Extra1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120382
-#EXTINF:-1,NL | Ziggo Sport Extra2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120383
-#EXTINF:-1,NL | Ziggo Sport Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120384
-#EXTINF:-1,NL | Ziggo Sport Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120385
-#EXTINF:-1,NL:Fox Sports 1 Eredivisie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120391
-#EXTINF:-1,NL:Fox Sports 3 Eredivisie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/beoutred/F4wOlkHFSs/120389
-
-#EXTINF:-1,NPO 1 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4142.ts
-#EXTINF:-1,NPO 1 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12525.ts
-#EXTINF:-1,NPO 2 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4143.ts
-#EXTINF:-1,NPO 2 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12526.ts
-#EXTINF:-1,NPO 3 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4144.ts
-#EXTINF:-1,NPO 3 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12527.ts
-#EXTINF:-1,RTL 4 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4149.ts
-#EXTINF:-1,RTL 4 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12537.ts
-#EXTINF:-1,RTL 5 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4150.ts
-#EXTINF:-1,RTL 5 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12536.ts
-#EXTINF:-1,SBS6 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4147.ts
-#EXTINF:-1,SBS6 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12533.ts
-#EXTINF:-1,RTL 7 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4151.ts
-#EXTINF:-1,RTL 7 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12535.ts
-#EXTINF:-1,RTL 8 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4152.ts
-#EXTINF:-1,RTL 8 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12534.ts
-#EXTINF:-1,SBS9 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4148.ts
-#EXTINF:-1,SBS9 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17236.ts
-#EXTINF:-1,FOX NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4134.ts
-#EXTINF:-1,Net5 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4145.ts
-#EXTINF:-1,Net5 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12528.ts
-#EXTINF:-1,Veronica Disney XD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/16296.ts
-#EXTINF:-1,Veronica Disney XD FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12524.ts
-#EXTINF:-1,Nickelodeon NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/2461.ts
-#EXTINF:-1,Comedy Central NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4137.ts
-#EXTINF:-1,Comedy Central Extra NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11239.ts
-#EXTINF:-1,MTV Hits NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4136.ts
-#EXTINF:-1,Spike NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17201.ts
-#EXTINF:-1,Extreme Sports NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11233.ts
-#EXTINF:-1,FOX HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17215.ts
-#EXTINF:-1,FOX Sports 1 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/15843.ts
-#EXTINF:-1,FOX Sports 1 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4169.ts
-#EXTINF:-1,FOX Sports 2 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4170.ts
-#EXTINF:-1,FOX Sports 2 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12530.ts
-#EXTINF:-1,FOX Sports 3 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4171.ts
-#EXTINF:-1,FOX Sports 3 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17218.ts
-#EXTINF:-1,FOX Sports 4 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4172.ts
-#EXTINF:-1,FOX Sports 5 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4173.ts
-#EXTINF:-1,FOX Sports 6 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11231.ts
-#EXTINF:-1,Ziggo Sport Select NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4166.ts
-#EXTINF:-1,Ziggo Sport Select FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12523.ts
-#EXTINF:-1,Ziggo Sport Voetbal NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4167.ts
-#EXTINF:-1,Ziggo Sport Voetbal HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/15803.ts
-#EXTINF:-1,Ziggo Sport Racing HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/7009.ts
-#EXTINF:-1,Ziggo Sport Golf HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4168.ts
-#EXTINF:-1,Ziggo Sport Docu NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/7007.ts
-#EXTINF:-1,Ziggo Sport Extra NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/7008.ts
-#EXTINF:-1,Eurosport 1 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11235.ts
-#EXTINF:-1,Eurosport 1 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12532.ts
-#EXTINF:-1,Film1 Premiere NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4162.ts
-#EXTINF:-1,Film1 Premiere HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12531.ts
-#EXTINF:-1,Film1 Action NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4159.ts
-#EXTINF:-1,Film 1 Action HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17207.ts
-#EXTINF:-1,Film1 Family NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4160.ts
-#EXTINF:-1,Film 1 Family HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17209.ts
-#EXTINF:-1,Film 1 Drama NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11232.ts
-#EXTINF:-1,Film 1 Drama HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17208.ts
-#EXTINF:-1,Discovery Channel NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4176.ts
-#EXTINF:-1,Investigation Discovery NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11229.ts
-#EXTINF:-1,Crime & Investigation NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11238.ts
-#EXTINF:-1,History NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11230.ts
-#EXTINF:-1,National Geographic FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/4140.ts
-#EXTINF:-1,National Geographic Wild NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12499.ts
-#EXTINF:-1,National Geographic Wild FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17224.ts
-#EXTINF:-1,Animal Planet NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11244.ts
-#EXTINF:-1,24 Kitchen NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11246.ts
-#EXTINF:-1,RTL Lounge HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11208.ts
-#EXTINF:-1,TLC NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11204.ts
-#EXTINF:-1,RTL Crime NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11209.ts
-#EXTINF:-1,RTL Z NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11206.ts
-#EXTINF:-1,Disney Channel NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11237.ts
-#EXTINF:-1,Boomerang NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11242.ts
-#EXTINF:-1,Baby TV NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11213.ts
-#EXTINF:-1,Nick Jr. NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11223.ts
-#EXTINF:-1,NPO Politiek NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12491.ts
-#EXTINF:-1,Omroep Brabant NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11216.ts
-#EXTINF:-1,Omroep Flevoland NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11215.ts
-#EXTINF:-1,Omrop Fryslan NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11247.ts
-#EXTINF:-1,Omroep Gelderland NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11214.ts
-#EXTINF:-1,Omroep West NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12486.ts
-#EXTINF:-1,Omroep Zeeland NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11212.ts
-#EXTINF:-1,RTV Drenthe NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12489.ts
-#EXTINF:-1,RTV Noord NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/12487.ts
-#EXTINF:-1,RTV Oost NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11203.ts
-#EXTINF:-1,L1 TV NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11227.ts
-#EXTINF:-1,AT 5 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11243.ts
-#EXTINF:-1,ONS NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11211.ts
-#EXTINF:-1,WOS NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/11225.ts
-#EXTINF:-1,TV 538 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/16979.ts
-#EXTINF:-1,Cartoon Network NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17191.ts
-#EXTINF:-1,E! HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17193.ts
-#EXTINF:-1,Edge Sport FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17194.ts
-#EXTINF:-1,Eurosport 2 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17195.ts
-#EXTINF:-1,JimJam NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17196.ts
-#EXTINF:-1,MTV Brand New NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17189.ts
-#EXTINF:-1,MTV NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17197.ts
-#EXTINF:-1,Nicktoons NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17199.ts
-#EXTINF:-1,Outdoor Channel HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17200.ts
-#EXTINF:-1,The Q You HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17190.ts
-#EXTINF:-1,192 TV NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17213.ts
-#EXTINF:-1,Discovery Channel HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17204.ts
-#EXTINF:-1,MTV Music 24 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17243.ts
-#EXTINF:-1,TV Oranje NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/18395.ts
-#EXTINF:-1,Duck TV NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/22981.ts
-#EXTINF:-1,FOX Sports 4 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17219.ts
-#EXTINF:-1,FOX Sports 5 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17220.ts
-#EXTINF:-1,FOX Sports 6 FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/17221.ts
-#EXTINF:-1,Discovery Showcase FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/23944.ts
-#EXTINF:-1,Film Europe INT FHD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/23967.ts
-#EXTINF:-1,DocuBox NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/23949.ts
-#EXTINF:-1,NPO FunX NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/23968.ts
-#EXTINF:-1,NPO 3 Extra NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cloudcdn.tk:80/live/urKAEIOyGk/fzP5XJfGY0/24330.ts
+#EXTINF:-1,100% NL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6335
+#EXTINF:-1,192TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6336
+#EXTINF:-1,24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6337
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6338
+#EXTINF:-1,BBC FIRST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6340
+#EXTINF:-1,BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6341
+#EXTINF:-1,BRAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6342
+#EXTINF:-1,CANVAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6343
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6344
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6314
+#EXTINF:-1,DANCE TRIPPIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6315
+#EXTINF:-1,DEN HAAG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6316
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6318
+#EXTINF:-1,DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6319
+#EXTINF:-1,DJAZZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6320
+#EXTINF:-1,EEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6322
+#EXTINF:-1,EXTREME SPORTS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6324
+#EXTINF:-1,FAMILY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6325
+#EXTINF:-1,FILM 1 ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6326
+#EXTINF:-1,FILM 1 DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6327
+#EXTINF:-1,FILM 1 FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6328
+#EXTINF:-1,FILM 1 PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6329
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6299
+#EXTINF:-1,HORSE & COUNTRY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6300
+#EXTINF:-1,ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6301
+#EXTINF:-1,KETNET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6302
+#EXTINF:-1,MTV BRAND NEW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6303
+#EXTINF:-1,MTV MUSIC 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6305
+#EXTINF:-1,PEBBLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6264
+#EXTINF:-1,RTL 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6265
+#EXTINF:-1,RTL 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6266
+#EXTINF:-1,RTL 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6267
+#EXTINF:-1,RTL 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6268
+#EXTINF:-1,RTL CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6269
+#EXTINF:-1,RTL LOUNGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6270
+#EXTINF:-1,RTL TELEKIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6271
+#EXTINF:-1,RTL Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6272
+#EXTINF:-1,RTV 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6273
+#EXTINF:-1,RTV UTRECHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6274
+#EXTINF:-1,SBS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6275
+#EXTINF:-1,SBS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6276
+#EXTINF:-1,SLAM!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6277
+#EXTINF:-1,SPIKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6278
+#EXTINF:-1,TV ORANJE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6284
+#EXTINF:-1,TV RIJNMOND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6285
+#EXTINF:-1,TV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6286
+#EXTINF:-1,VERONICA/DISNEYXD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6287
+#EXTINF:-1,VICELAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6289
