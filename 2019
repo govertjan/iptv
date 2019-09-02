@@ -1,97 +1,92 @@
 #EXTM3U
-#EXTINF:-1,100% NL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6335
-#EXTINF:-1,192TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6336
-#EXTINF:-1,24 KITCHEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6337
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6338
-#EXTINF:-1,BBC FIRST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6340
-#EXTINF:-1,BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6341
-#EXTINF:-1,BRAVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6342
-#EXTINF:-1,CANVAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6343
-#EXTINF:-1,CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6344
-#EXTINF:-1,COMEDY CENTRAL EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6314
-#EXTINF:-1,DANCE TRIPPIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6315
-#EXTINF:-1,DEN HAAG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6316
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6318
-#EXTINF:-1,DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6319
-#EXTINF:-1,DJAZZ TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6320
-#EXTINF:-1,EEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6322
-#EXTINF:-1,EXTREME SPORTS CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6324
-#EXTINF:-1,FAMILY 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6325
-#EXTINF:-1,FILM 1 ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6326
-#EXTINF:-1,FILM 1 DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6327
-#EXTINF:-1,FILM 1 FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6328
-#EXTINF:-1,FILM 1 PREMIERE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6329
-#EXTINF:-1,HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6299
-#EXTINF:-1,HORSE & COUNTRY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6300
-#EXTINF:-1,ID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6301
-#EXTINF:-1,KETNET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6302
-#EXTINF:-1,MTV BRAND NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6303
-#EXTINF:-1,MTV MUSIC 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6305
-#EXTINF:-1,PEBBLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6264
-#EXTINF:-1,RTL 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6265
-#EXTINF:-1,RTL 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6266
-#EXTINF:-1,RTL 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6267
-#EXTINF:-1,RTL 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6268
-#EXTINF:-1,RTL CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6269
-#EXTINF:-1,RTL LOUNGE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6270
-#EXTINF:-1,RTL TELEKIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6271
-#EXTINF:-1,RTL Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6272
-#EXTINF:-1,RTV 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6273
-#EXTINF:-1,RTV UTRECHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6274
-#EXTINF:-1,SBS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6275
-#EXTINF:-1,SBS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6276
-#EXTINF:-1,SLAM!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6277
-#EXTINF:-1,SPIKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6278
-#EXTINF:-1,TV ORANJE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6284
-#EXTINF:-1,TV RIJNMOND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6285
-#EXTINF:-1,TV WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6286
-#EXTINF:-1,VERONICA/DISNEYXD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6287
-#EXTINF:-1,VICELAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.home66.tv:8000/12muues1112/7nh7dp/6289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/3870
+#EXTINF:-1,NL:NPO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1349
+#EXTINF:-1,NL:NPO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1350
+#EXTINF:-1,NL:NPO 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1351
+#EXTINF:-1,NL:RTL 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/272
+#EXTINF:-1,NL:RTL 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/273
+#EXTINF:-1,NL:RTL 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1530
+#EXTINF:-1,NL:RTL 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1372
+#EXTINF:-1,NL:RTL Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/17336
+#EXTINF:-1,NL:SBS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1529
+#EXTINF:-1,NL:NET 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1375
+#EXTINF:-1,NL: AT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/19664
+#EXTINF:-1,NL:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/7181
+#EXTINF:-1,NL:TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/7183
+#EXTINF:-1,NL:SBS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1371
+#EXTINF:-1,NL:VERONICA DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1136
+#EXTINF:-1,NL: RTV Drenthe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/20400
+#EXTINF:-1,NL:RTV DRENTHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1388
+#EXTINF:-1,NL:NICK Jr (toons)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1374
+#EXTINF:-1,NL:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1376
+#EXTINF:-1,NL:CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4589
+#EXTINF:-1,NL:KET NET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4588
+#EXTINF:-1,NL:NICK TOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4584
+#EXTINF:-1,NL:NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4586
+#EXTINF:-1,NL:RTL TELEKIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4587
+#EXTINF:-1,NL:DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/7182
+#EXTINF:-1,NL: HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4512
+#EXTINF:-1,NL:NAT GEOGRAPHIC  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/261
+#EXTINF:-1,NL:NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1531
+#EXTINF:-1,NL:DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/262
+#EXTINF:-1,NL:FILM 1 PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1373
+#EXTINF:-1,NL:FILM 1  DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/279
+#EXTINF:-1,NL:FILM 1 FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/282
+#EXTINF:-1,NL:FILM 1 ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/283
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/1138
+#EXTINF:-1,NL: Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4328
+#EXTINF:-1,NL: Ziggo Sport Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4327
+#EXTINF:-1,NL: Ziggo Sport Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4326
+#EXTINF:-1,NL: Ziggo Sport eXtra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4330
+#EXTINF:-1,NL: Ziggo Sport eXtra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4329
+#EXTINF:-1,NL:FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/264
+#EXTINF:-1,NL:FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/265
+#EXTINF:-1,NL:FOX SPORTS 3 HD EREDIVISIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/266
+#EXTINF:-1,NL:FOX SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/267
+#EXTINF:-1,NL:FOX SPORTS 5 HD EREDIVISIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/268
+#EXTINF:-1,NL: Fox Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.87:8000/namskype/AZvd23QSX51FFFFF1zXdf1Z3g345zdv3XXXZza/4331
